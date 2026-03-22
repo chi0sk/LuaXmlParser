@@ -1,4 +1,4 @@
-# xmlparser.luau
+# xmlparser.lua
 
 xml parser, serializer, and query lib for luau. built for roblox but works anywhere luau runs.
 
