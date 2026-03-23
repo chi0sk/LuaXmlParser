@@ -1,6 +1,8 @@
 # xmlparser.lua
 
-xml parser, serializer, and query lib for luau. built for roblox but works anywhere luau runs.
+**this was designed and commented to be an educational module feel free to use it in your projects tho if needed.**
+
+**xml parser, serializer, and query lib for luau. built for roblox but works anywhere luau runs. (probably i didnt build in luau cli to check)**
 
 ```lua
 local xml = require(path.to.xml)
